@@ -1,5 +1,5 @@
 
-# NGOConnect
+# NGOConnect ( AI4SocialGood)
 
 NGOConnect is an innovative platform designed to bridge the gap between individuals looking to donate and non-governmental organizations (NGOs) in need of resources. By leveraging advanced AI technologies and a user-friendly interface, NGOConnect facilitates meaningful connections and supports the broader mission of empowering NGOs worldwide.
 
